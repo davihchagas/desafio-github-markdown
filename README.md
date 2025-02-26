@@ -5,8 +5,8 @@ Esse README.md é parte do projeto desafio ***"Explorando Colaboração e Markdo
 
 | Objetivos | Cumpridos |
 |---------| ------------|
-| Commitar | Não |
-| Criar branchs| Não |
+| Commitar | Sim |
+| Criar branchs| Sim |
 | Pull requests| Não |
 
 >"Só sei que nada sei"
