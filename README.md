@@ -7,7 +7,7 @@ Esse README.md é parte do projeto desafio ***"Explorando Colaboração e Markdo
 |---------| ------------|
 | Commitar | Sim |
 | Criar branchs| Sim |
-| Pull requests| Não |
+| Pull requests| Sim |
 
 >"Só sei que nada sei"
 
